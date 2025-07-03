@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <!DOCTYPE workflow
 [
-    <!ENTITY USER "marcel.caron">
-    <!ENTITY RZDMUSER "mcaron">
+    <!ENTITY USER "binbin.zhou">
+    <!ENTITY RZDMUSER "wd20bz">
     <!ENTITY ACCOUNT "RRFS-DEV">
 
     <!ENTITY models "namnest hrrr hireswarw hireswarwmem2 hireswfv3 rrfs">
@@ -10,8 +10,8 @@
     <!ENTITY models_meso "nam">
     <!ENTITY models_firewx "nam rrfs">
 
-    <!ENTITY RRFSevs "/lfs/h2/emc/vpppg/save/&USER;/EVS_rrfs/realtime/EVS">
-    <!ENTITY USHrealtime "/lfs/h2/emc/vpppg/noscrub/&USER;/ush/rrfs_eval/realtime">
+    <!ENTITY RRFSevs "/lfs/h2/emc/vpppg/save/binbin.zhou/EVS">
+    <!ENTITY USHrealtime "/lfs/h2/emc/vpppg/noscrub/binbin.zhou/rrfs_eval/realtime">
     <!ENTITY LOGDIR "/lfs/h2/emc/ptmp/&USER;/output/realtime">
     <!ENTITY LOGOUT "/lfs/h2/emc/stmp/&USER;/realtime.out">
     <!ENTITY COMOUT "/lfs/h2/emc/vpppg/noscrub/&USER;/evs/v2.0">
